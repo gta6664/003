@@ -1119,7 +1119,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "http://112.74.124.75:8899/zb.txt",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
