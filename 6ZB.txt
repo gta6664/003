@@ -41,6 +41,8 @@ CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CGTN-英语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 CGTN-纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
+央视4K,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081303.m3u8
+央视8K,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 
 
 //湖南省衡阳市酒店  222.241.154.37:9901     55
