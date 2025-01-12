@@ -17,6 +17,66 @@ dj,https://kq.bgp.68tool.com/video/m3u8/2020/08/28/ced5f6ca/playlist.m3u8
 💔凯少爷好难,https://vd3.bdstatic.com/mda-mi8iee21bndh1caw/hd/cae_h264/1631192960632939306/mda-mi8iee21bndh1caw.mp4?auth_key=1717567202-0-0-a15ed8c2a906ea31eb25503564bc7b45&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=0002565416&vid=13129741298511064907&abtest=all
 VIP,https://vd3.bdstatic.com/mda-pgqkuqmm8w6apn0n/576p/h264/1690296321719842653/mda-pgqkuqmm8w6apn0n.mp4?auth_key=1717566173-0-0-6bc84d5146bce799cdf0f6d648156b43&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=2573214858&vid=8014833498457707747&abtest=all
 💔凯少爷好难^*,https://alimov2.a.kwimgs.com/upic/2023/04/22/17/BMjAyMzA0MjIxNzI1MzZfMjgzNjA2ODc5N18xMDEyMzc2NjE3NDlfMF8z_b_B97021f3592e1779257f420d55885ac3a.mp4?clientCacheKey=3x73a4vbk8wzt2q_b.mp4&tt=b&di=b7d53c28&bp=10000
+
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+千禧經典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+NHK東京総合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
+Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
+Astro Xing He,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
+Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
+纬来体育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+
 央视,#genre#
 //PLTV ottrrs.hl.chinamobile.com/PLTV
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -344,7 +404,148 @@ CETV-1,http://112.101.78.50:9901/tsfile/live/1003_1.m3u8
 贵州卫视,http://112.101.78.50:9901/tsfile/live/0120_1.m3u8
 重庆卫视,http://112.101.78.50:9901/tsfile/live/0142_1.m3u8
 
+咪咕,#genre#
+CCTV1,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv1
+CCTV2,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv2
+CCTV3,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv3
+CCTV4,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv4
+CCTV4美洲,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv4a
+CCTV4欧洲,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv4o
+CCTV5,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv5
+CCTV5+,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv5p
+CCTV6,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv6
+CCTV7,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv7
+CCTV8,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv8
+CCTV9,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv9
+CCTV10,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv10
+CCTV11,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv11
+CCTV12,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv12
+CCTV13,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv13
+CCTV14,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv14
+CCTV15,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv15
+CCTV17,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv17
+CCTV发现之旅,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=fxzl
+CCTV老故事,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=lgs
+CCTV中学生,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=zxs
+CGTN,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cgtn
+CGTN纪录,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cgtnjl
+CCTV西班牙语,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cgtne
+CCTV法语,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cgtnf
+CCTV阿拉伯语,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cgtna
+CCTV俄语,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cgtnr
+重庆卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cqws
+吉林卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=jlws
+辽宁卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=lnws
+内蒙古卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=nmws
+宁夏卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=nxws
+甘肃卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=gsws
+青海卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=qhws
+陕西卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=sxws
+山东卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=sdws
+河南卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=hnws
+湖北卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=hubws
+湖南卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=hunws
+江西卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=jxws
+江苏卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=jsws
+东南卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=dnws
+海峡卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=hxws
+广东卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=gdws
+大湾区卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=dwqws
+广西卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=gxws
+云南卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=ynws
+贵州卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=gzws
+新疆卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xjws
+西藏卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xzws
+海南卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=hinws
+东方卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=dfws
+四海钓鱼,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=shdy
+CHC动作电影,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=chcdzdy
+CHC家庭影院,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=chcjtdy
+东方影视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=dfys
+上海新闻综合,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=shxwzh
+上海第一财经,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=dycj
+上视纪实人文,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=shjsrw
+上海外语,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=shics
+法治天地,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=fztd
+劲爆体育,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=jbty
+魅力足球,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=mlzq
+乐游,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=ly
+欢笑剧场,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=hxjc
+七彩戏剧,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=qcxj
+游戏风云,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=yxfy
+临洮电视台,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=lttv
+江苏城市,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=jscs
+江苏综艺,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=jszy
+江苏影视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=jsys
+江苏公共新闻,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=jsggxw
+江苏国际,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=jsg
+j江苏教育,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=jsjy
+江苏体育休闲,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=jstyxx
+优漫卡通,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=ymkt
+南京新闻综合,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=njxwzh
+南京教科,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=njkj
+南京十八,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=njsb
+淮安新闻综合,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=haxwzh
+连云港新闻综合,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=lygxwzh
+苏州新闻综合,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=szxwzh
+泰州新闻综合,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=tzxwzh
+宿迁新闻综合,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=sqxwzh
+徐州新闻综合,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xzxwzh
+广东影视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=gdys
+嘉佳卡通,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=jjkt
+24小时亚洲杯频道,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=24hyzb
+CBA经典,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cbajd
+掼蛋精英赛,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=gdjys
+高清大片,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=gqdp
+和平精英赛事,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=hpjxss
+红色轮播台,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=hslbt
+经典动画大集合,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=jddhdjh
+经典香港电影,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=jdxgdy
+军事迷必看大片,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=jsdp
+历届春晚回顾,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=ljcwhg
+咪咕24小时体育台,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=mg24hty
+玫瑰轮播台,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=mglbt
+NBA经典,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=nbajd
+欧洲足球风云,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=ozzqfy
+全民乒乓,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=qmpp
+热剧联播,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=rjlb
+赛事最经典,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=sszjd
+体坛名栏汇,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=ttmlh
+UFC格斗精选,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=ufcgdjx
+五大联赛经典,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=wdlsjd
+乡村振兴,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xczx
+幸福中国年,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xfzgn
+新片放映厅,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xpfyt
+英雄联盟赛事,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=yxlmss
+周杰伦现场,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=zjlxc
+最强综艺趴,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=zqzyp
+熊猫频道,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xmpd
+熊猫1,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm1
+熊猫2,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm2
+熊猫3,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm3
+熊猫4,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm4
+熊猫5,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm5
+熊猫6,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm6
+熊猫7,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm7
+熊猫8,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm8
+熊猫9,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm9
+熊猫10,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm10
+龙胜龙脊梯田,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=lsljtt
+大藤峡,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=dtx
+邕城,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=yc
+遇龙河,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=ylh
+开封金明广场,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=kfjmgc
+开封清明上河园西门,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=kfqmshyxm
+开封连霍高速路口,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=kflhgsgl
+开封鼓楼,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=kfgl
+武汉光谷,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=whgg
+武汉江汉关,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=whjhg
+武汉黄鹤楼,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=whhhl
 
+虎牙,#genre#
+1林正英,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342421
+2林正英,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=29551429
+3林正英,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=25256065
 地方频道,#genre#
 //ottrrs.hl.chinamobile.com/PLTV
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
