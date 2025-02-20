@@ -106,40 +106,7 @@
       "searchable": 1,
       "quickSearch": 0
     },
-    {
-      "key": "玩偶智能",
-      "name": "玩偶智能|4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "jar": "./000.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "wogg": true,
-        "danmu": true
-      }
-    },
-    {
-      "key": "木偶哥哥",
-      "name": "木偶哥哥|4K",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./000.txt",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "site": "http://www.mogg.top",
-        "danmu": true
-      }
-    },
+
     {
       "key": "天",
       "name": "天翼4K",
